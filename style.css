@@ -1,0 +1,29 @@
+/* Ekran */
+body {
+    background-color: burlywood;
+}
+
+/* Başlık ve açıklama */
+h1, h5 {
+    color: firebrick;
+    font-family: serif;
+    font-style: oblique;
+}
+
+/* Aşamalar */
+div {
+    color: black;
+    text-align: center;
+}
+
+a {
+    color:firebrick;
+}
+
+li {
+    color: black;
+}
+
+#baslık {
+    color: white;
+}
